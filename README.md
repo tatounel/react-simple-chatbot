@@ -1,3 +1,23 @@
+# IHS Markit Helpbot
+
+
+This project was built for the 5th annual HackitTogether hackathon at Lander College for Women. 
+
+We chose the first challenge which was to build a customer experience channel for IHS in order to create a powerful new way to connect with customers.
+
+We used Lucas Bassetti's React Simple Chatbot package and customized it for IHS by making the changing the UI, branding, and responses. 
+
+One of our challenges was not having access to the IHS Software, and therefore we couldn't predict what questions customers usually asked. With this information in the future, we can have smarter and more dynamic chatbot responses to better fit any need the customers may have.
+
+Screenshot: ![](https://i.imgur.com/BRkCPuM.png)
+
+Contributors:
+  - Cara Dibdin
+  - Jasmine Carpentier
+  - Francine Altman
+  - Tania Nelzy
+
+
 # React Simple Chatbot
 
 <a href="https://travis-ci.org/LucasBassetti/react-simple-chatbot"><img src="https://travis-ci.org/LucasBassetti/react-simple-chatbot.svg?branch=master" alt="Travis CI" /></a> <a href="https://badge.fury.io/js/react-simple-chatbot"><img src="https://badge.fury.io/js/react-simple-chatbot.svg" alt="npm version"></a>
@@ -9,10 +29,9 @@ A simple chatbot component to create conversation chats
 <img src="https://cloud.githubusercontent.com/assets/1014326/25716667/2d4bb4c4-30d6-11e7-996e-30c8fb316361.gif" height="400" />
 
 ## Getting Start
-
-```bash
-npm install react-simple-chatbot --save
-```
+Clone this repository. 
+Run ```npm i```. 
+Run ```npm start```.
 
 ## Usage
 
